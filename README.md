@@ -1,6 +1,6 @@
 # processing-snake-game
 
-This is a simple Snake game implemented in Processing using Java. The game features a grid-based environment where the player controls a snake to eat food and grow in size, while avoiding collisions with the boundaries of the grid and the snake's own body.
+This is a simple Snake game implemented through the [Processing IDE](https://processing.org) using Java. The game features a grid-based environment where the player controls a snake to eat food and grow in size, while avoiding collisions with the boundaries of the grid and the snake's own body.
 
 ## Table of Contents
 
